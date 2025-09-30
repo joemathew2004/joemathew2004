@@ -19,17 +19,12 @@
 
 ---
 
-## 📌 Featured Projects  
-- **HealthPulse** – Elderly health check-in & alert system (Docker + AWS + SQL)  
-- **Back Together** – Drug addiction recovery support app (Flutter + AI features)  
-- **LLM Agents** – Smart email drafting and automation using LangChain  
-
----
-
 ## 📊 GitHub Stats  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=joemathew2004&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joemathew2004&layout=compact&theme=radical)  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=joemathew2004&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joemathew2004&layout=compact&theme=radical" height="150"/>
+</div>
 
 ---
 
@@ -38,5 +33,4 @@
 - [Portfolio](https://your-portfolio-link)  
 - [Email](mailto:yourmail@example.com)  
 
-⭐️ From [Joe Mathew](https://github.com/joemathew)
 
