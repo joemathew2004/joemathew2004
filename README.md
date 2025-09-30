@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Joe Mathew  
 
-🎓 Final year **Computer Science Engineering student** specializing in **Artificial Intelligence & Machine Learning**.  
-💡 Skilled in **machine learning, deep learning, and NLP techniques**, with hands-on experience from internships and academic projects.  
-🚀 Passionate about building **AI-driven solutions** that solve real-world challenges.  
+- 🎓 Final year **Computer Science Engineering student** specializing in **Artificial Intelligence & Machine Learning**.  
+- 💡 Skilled in **machine learning, deep learning, and NLP techniques**, with hands-on experience from internships and academic projects.  
+- 🚀 Passionate about building **AI-driven solutions** that solve real-world challenges.  
 
 ---
 
