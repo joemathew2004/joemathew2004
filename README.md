@@ -21,10 +21,8 @@
 
 ## 📊 GitHub Stats  
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=joemathew2004&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joemathew2004&layout=compact&theme=radical" height="150"/>
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=joemathew2004&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joemathew2004&layout=compact&theme=radical)  
 
 ---
 
